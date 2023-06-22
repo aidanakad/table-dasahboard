@@ -1,0 +1,123 @@
+[
+  {
+    "key": "1",
+    "client": "Michael Scott",
+    "project": "Dunder Mifflin",
+    "startDate": "11.09.2022",
+    "revenue": 100,
+    "status": "planning",
+    "percentCompletion": 50,
+    "margin": 0,
+    "isEditing": false
+  },
+  {
+    "key": "2",
+    "client": "Dwight Schrute",
+    "project": "Beat Farm",
+    "startDate": "12.09.2022",
+    "revenue": 120,
+    "status": "initiation",
+    "percentCompletion": 40,
+    "margin": -40
+  },
+  {
+    "key": "3",
+    "client": "Jim Halpert",
+    "project": "Basketball project ",
+    "startDate": "08.10.1978",
+    "revenue": 110,
+    "status": "execution",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "4",
+    "client": "Pam Beesly",
+    "project": "Art exhibition",
+    "startDate": "23.02.2009",
+    "revenue": 150,
+    "status": "pending",
+    "percentCompletion": 85,
+    "margin": -5
+  },
+  {
+    "key": "5",
+    "client": "Ryan Howard",
+    "project": "Infinity project",
+    "startDate": "28.05.1990",
+    "revenue": 90,
+    "status": "closure",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "6",
+    "client": "Andy Bernard",
+    "project": "Cornel",
+    "startDate": "22.07.2000",
+    "revenue": 200,
+    "status": "pending",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "7",
+    "client": "Angela Martin",
+    "project": "Accountant project ",
+    "startDate": "15.09.2018",
+    "revenue": 50,
+    "status": "planning",
+    "percentCompletion": 20,
+    "margin": 210
+  },
+  {
+    "key": "8",
+    "client": "Holly Flax",
+    "project": "Consequatur Est est",
+    "startDate": "01.01.2009",
+    "revenue": 160,
+    "status": "execution",
+    "percentCompletion": 95,
+    "margin": 210
+  },
+  {
+    "key": "9",
+    "client": "Alexandra Garner",
+    "project": "Vero quia fugit et ",
+    "startDate": "18.05.2004",
+    "revenue": 154,
+    "status": "planning",
+    "percentCompletion": 15,
+    "margin": 210
+  },
+  {
+    "key": "10",
+    "client": "Cheryl Martin",
+    "project": "Et quasi architecto ",
+    "startDate": "20.03.2018",
+    "revenue": 134,
+    "status": "planning",
+    "percentCompletion": 30,
+    "margin": 210
+  },
+  {
+    "key": "11",
+    "client": "Rhonda Booth",
+    "project": "Voluptatem Magnam l",
+    "startDate": "26.04.2005",
+    "revenue": 190,
+    "status": "planning",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "12",
+    "client": "Gwendolyn Hunter",
+    "project": "Omnis ipsam ut quam ",
+    "startDate": "23.02.2001",
+    "revenue": 220,
+    "status": "initiation",
+    "percentCompletion": 65,
+    "margin": 210
+  }
+]

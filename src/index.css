@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input,
+button,
+textarea,
+select {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+.app{
+  background-color: rgb(241 245 249);
+  padding: 40px;
+}
+
+.status-item {
+  clip-path: polygon(75% 0%, 100% 48%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+  width: 120px;
+  height: 50px;
+  background: blue;
+  font-size: 12px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: bold;
+  padding-left: 35px;
+  cursor: pointer;
+}
+
+.status-item.initiation {
+  background: #ff595e;
+}
+.status-item.planning {
+  background: #ffca3a;
+}
+.status-item.execution {
+  background: #8ac926;
+}
+.status-item.pending {
+  background: #1982c4;
+}
+.status-item.closure {
+  background: #6a4c93;
+}
+
+.status-wrapper {
+  display: flex;
+  gap: 5px;
+}
